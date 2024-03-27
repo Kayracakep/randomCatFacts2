@@ -130,3 +130,4 @@ A healthy cat has a temperature between 38 and 39 degrees Celcius.
 Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
 In multi-cat households, cats of the opposite sex usually get along better.
 A cat will tremble or shiver when it is extreme pain.
+Cats lap liquid from the underside of their tongue, not from the top.
